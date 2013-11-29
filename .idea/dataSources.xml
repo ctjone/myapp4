@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1023482814">
+    <data-source source="LOCAL" name="Rails myapp4: development" uuid="fb025f39-7e8c-42f6-be22-ab6426b7f254">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/testenviro</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfe2dfeadffadfc3dfc4dfcedfdfdfd9dfdedfd8dfc3dfcbdfc6</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails myapp4: test" uuid="1413c8c7-fdc4-45cb-b0d7-e748e679fefb">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/myapp4_test</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails myapp4: production" uuid="aa83e2d5-eaea-47e9-9312-0f9876ddc46e">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/myapp4_production</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
