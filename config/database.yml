@@ -28,7 +28,7 @@ test:
   database: myapp4_test
   pool: 5
   username: root
-  password:
+  password: H@Pindustrial
   host: 127.0.0.1
 
 production:
@@ -38,5 +38,5 @@ production:
   database: myapp4_production
   pool: 5
   username: root
-  password:
+  password: H@Pindustrial
   host: 127.0.0.1
